@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'OPTIBritannic';
+    src: url('OPTIBritannic-Bold.eot');
+    src: url('OPTIBritannic-Bold.eot?#iefix') format('embedded-opentype'),
+        url('OPTIBritannic-Bold.woff2') format('woff2'),
+        url('OPTIBritannic-Bold.woff') format('woff'),
+        url('OPTIBritannic-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
